@@ -1,0 +1,19 @@
+Stap 1: Maak server
+===================
+
+Ga in Azure Portal:
+
+1. "Virtual Machines"
+2. "Create"
+3. Kies:
+   - Image: Windows Server 2022
+   - Size: B2s
+   - Username + wachtwoord
+
+Klik Create
+
+Stap 2: RDP erin
+================
+
+Connect → RDP downloaden
+Inloggen
